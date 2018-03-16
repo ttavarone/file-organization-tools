@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.File;
 import java.io.PrintWriter;
 /**
- * Write a description of class FileWriter here.
+ * 
  *
  * @author (Tucker & Rajshree)
  * @version (3/16/18)
