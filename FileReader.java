@@ -26,7 +26,7 @@ public class FileReader
                 charCount += s.length();
             }
             
-            
+            in.close();
             System.out.print("There are\n"+lineCount+" lines,\n"+
             wordCount+" words,\n"+charCount+" characters in this document.");
         }
